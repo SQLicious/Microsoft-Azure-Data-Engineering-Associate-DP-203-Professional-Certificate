@@ -4,30 +4,30 @@ Summary
 This quiz assessed my understanding of high-availability systems, total cost of ownership (TCO), data storage in Azure, lift and shift operations, data schemas, and high availability in cloud environments. I scored 100%, demonstrating a solid grasp of these fundamental concepts.
 
 Key Takeaways
-High-Availability Systems and SLAs:
-
+1. High-Availability Systems and SLAs:
 Key Concept: Understanding the uptime percentage and its impact on downtime.
 Question Insight: An SLA of 99.9% uptime translates to 8.76 hours of downtime per year.
-Total Cost of Ownership (TCO):
 
+2. Total Cost of Ownership (TCO):
 Key Concept: TCO encompasses all costs associated with owning technology, not just the purchase price.
 Question Insight: TCO includes hardware, software licensing, labor, and datacenter overhead costs.
-Azure Data Storage:
 
+3. Azure Data Storage:
 Key Concept: Azure supports both structured and unstructured data.
 Question Insight: Unstructured data can be stored in Azure Blob storage, Azure Cosmos DB, or Azure HDInsight.
 Lift and Shift Strategy:
 
-Key Concept: Understanding the benefits of migrating to Azure without needing to rearchitect applications.
+4. Key Concept: Understanding the benefits of migrating to Azure without needing to rearchitect applications.
 Question Insight: Benefits include higher availability and lower operational costs.
 Data Schemas in Azure:
 
-Key Concept: Differentiation between structured and unstructured data.
+5. Key Concept: Differentiation between structured and unstructured data.
 Question Insight: The schema for unstructured data is defined at query time, allowing flexibility in data management.
-High Availability in Azure:
 
+6. High Availability in Azure:
 Key Concept: Azure's approach to ensuring continuous service availability.
 Question Insight: High availability in Azure involves duplicating customer content for redundancy and meeting SLAs.
+
 Reflections
 This quiz was a valuable exercise in reinforcing my understanding of Azure's capabilities and best practices in data engineering. The concepts of SLAs, TCO, and data storage options are foundational to effectively managing and deploying data solutions in Azure. The insights gained here will be instrumental in my ongoing learning and application of Azure data services.
 
