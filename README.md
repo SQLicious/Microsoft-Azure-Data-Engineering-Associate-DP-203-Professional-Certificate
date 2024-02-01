@@ -44,19 +44,5 @@ Stay tuned for updates as I progress through the specialization!
 
 ---
 
-© 2024 [Your Name]
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2024 [Ruby Gunna]
 
----
-
-*Please update the placeholders with your personal and course-specific links as appropriate.*
